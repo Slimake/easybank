@@ -87,7 +87,7 @@ header nav {
 }
 
 #title .bg-img {
-	background-image: url("/images/image-mockups.png"), url("/images/bg-intro-desktop.svg");
+	background-image: url("../images/image-mockups.png"), url("/images/bg-intro-desktop.svg");
 	background-repeat: no-repeat;
 	background-size: 90%, 160%;
 	background-position: 250% 45%, 0px -250px;
@@ -342,7 +342,7 @@ footer {
 	}
 
 	#title .bg-img {
-		background-image: url("/images/image-mockups.png"), url("/images/bg-intro-mobile.svg");
+		background-image: url("../images/image-mockups.png"), url("/images/bg-intro-mobile.svg");
 		background-repeat: no-repeat;
 		background-size: 90%, 100%;
 		background-position: center -250px, center -140px;
