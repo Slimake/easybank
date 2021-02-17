@@ -305,7 +305,6 @@ footer {
 
 	.nav-links li a:hover {
 		color: hsl(233, 8%, 62%);
-		border: none;
 		padding-bottom: 0;
 	}
 
