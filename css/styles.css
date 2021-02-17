@@ -342,7 +342,7 @@ footer {
 	}
 
 	#title .bg-img {
-		background-image: url("../images/image-mockups.png"), url("/images/bg-intro-mobile.svg");
+		background-image: url("../images/image-mockups.png"), url("../images/bg-intro-mobile.svg");
 		background-repeat: no-repeat;
 		background-size: 90%, 100%;
 		background-position: center -250px, center -140px;
