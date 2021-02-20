@@ -1,45 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-   <meta charset="UTF-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
-
-   <title>Easybank</title>
-
-   <!-- Google Fonts -->
-   <link rel="preconnect" href="https://fonts.gstatic.com">
-   <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;700&display=swap" rel="stylesheet">
-
-   <!-- CSS Stylesheets -->
-   <link rel="stylesheet" type="text/css" href="css/styles.css">
-</head>
-<body>
-
-   <header>
-
-      <div class="container">
-
-         <!-- Navbar -->
-         <nav>
-            <div class="logo">
-               <a href="#"><img src="images/logo.svg" alt="brand-logo"></a>
-            </div>
-            <ul class="nav-links">
-               <li><a href="#">Home</a></li>
-               <li><a href="#">About</a></li>
-               <li><a href="#">Contact</a></li>
-               <li><a href="#">Blog</a></li>
-               <li><a href="#">Careers</a></li>
-            </ul>
-            <a class="btn" href="#">Request Invite</a>
-            <div class="line"><img src="images/icon-hamburger.svg" alt="hamburger-icon"></div>
-            <div class="cross"><img src="images/icon-close.svg" alt="close-icon"></div>
-         </nav>
-
-      </div>
-
-   </header>
-
+<%- include("partials/header") -%>
 
    <!-- Title -->
    <section id="title">
@@ -47,7 +6,7 @@
       <div class="container">
          <h1>Next generation digital banking</h1>
          <p>Take your financial life online. Your Easybank account will be a one-stop shop for spending, saving, budgeting, investing, and much more</p>
-         <a class="btn" href="#">Request Invite</a>
+         <a class="btn" href="/request">Request Invite</a>
       </div>
       <div class="bg-img"></div>
 
@@ -127,40 +86,4 @@
       </div>
    </section>
 
-   <!-- Footer -->
-   <footer>
-      <div class="container">
-         <div class="footer-intro">
-            <div class="footer-intro-left">
-               <div class="footer-socials">
-                  <a href="#"><img src="images/logo-white.svg" alt="brand-logo"></a>
-                  <div class="social-icons">
-                     <img src="images/icon-facebook.svg" alt="facebook-icon">
-                     <img src="images/icon-youtube.svg" alt="youtube-icon">
-                     <img src="images/icon-twitter.svg" alt="twitter-icon">
-                     <img src="images/icon-pinterest.svg" alt="pinterest-icon">
-                     <img src="images/icon-instagram.svg" alt="instagram-icon">
-                  </div>
-               </div>
-               <ul>
-                  <li><a href="#">About Us</a></li>
-                  <li><a href="#">Contact</a></li>
-                  <li><a href="#">Blog</a></li>
-               </ul>
-               <ul>
-                  <li><a href="#">Careers</a></li>
-                  <li><a href="#">Support</a></li>
-                  <li><a href="#">Privacy Policy</a></li>
-               </ul>
-            </div>
-            <div class="footer-intro-right">
-               <a class="btn" href="#">Request Invite</a>
-               <p>&copy; Easybank. All Rights Reserved</p>
-            </div>
-         </div>
-      </div>
-   </footer>
-
-   <script src="script.js"></script>
-</body>
-</html>
+<%- include("partials/footer") -%>
