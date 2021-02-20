@@ -1,3 +1,3 @@
 # easybank
 
-website url: https://slimake.github.io/easybank
+website url: https://easybank2021.herokuapp.com/
