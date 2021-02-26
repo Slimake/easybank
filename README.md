@@ -13,7 +13,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-https://easybank2021.herokuapp.com/
+[product-screenshot]](https://easybank2021.herokuapp.com/)
 
 
 
