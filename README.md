@@ -13,7 +13,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Easybank][product-screenshot]](https://easybank2021.herokuapp.com/)
+[![Easybank][https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fpic&psig=AOvVaw2m_-i-DMF0KtUpTTCveHGn&ust=1614387190358000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDcxo-rhu8CFQAAAAAdAAAAABAD]](https://easybank2021.herokuapp.com/)
 
 
 
