@@ -13,7 +13,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://easybank2021.herokuapp.com/)
+https://easybank2021.herokuapp.com/
 
 
 
@@ -29,6 +29,6 @@
 <!-- CONTACT -->
 ## Contact
 
-Ajakaiye Afeso - [@slimake](https://twitter.com/slimake) - marcusitovie@.com
+Ajakaiye Afeso - [@slimake](https://twitter.com/slimake) - marcusitovie@gmail.com
 
 Project Link: https://github.com/Slimake/easybank
