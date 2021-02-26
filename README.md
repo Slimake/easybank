@@ -2,12 +2,8 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#built-with">Built With</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -35,10 +31,4 @@
 
 Ajakaiye Afeso - [@slimake](https://twitter.com/slimake) - marcusitovie@.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Slimake/easybank)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [Font Awesome](https://fontawesome.com)
+Project Link: https://github.com/Slimake/easybank
