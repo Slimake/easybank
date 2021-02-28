@@ -35,4 +35,4 @@ Project Link: https://github.com/Slimake/easybank
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: public/images/screenshot.png
