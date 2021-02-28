@@ -146,6 +146,7 @@ header nav {
 	right: 0;
 }
 
+
 #features {
 	background-color: hsl(220, 16%, 96%);
 	padding: 5rem 0;
@@ -198,6 +199,7 @@ header nav {
 .article {
 	background-color: hsl(0, 0%, 100%);
 	border-radius: 5px;
+	overflow: hidden;
 	color: hsl(233, 8%, 62%);
 }
 
@@ -206,8 +208,6 @@ header nav {
 	height: 200px;
 	object-fit: cover;
 	display: block;
-	border-top-left-radius: 5px;
-	border-top-right-radius: 5px;
 }
 
 .article .space {
