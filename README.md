@@ -31,7 +31,7 @@
 
 Ajakaiye Afeso - [@slimake](https://twitter.com/slimake) - marcusitovie@gmail.com
 
-Project Link: https://github.com/Slimake/easybank
+Project Link: https://easybank2021.herokuapp.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
