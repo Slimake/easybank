@@ -20,6 +20,7 @@
 
 ### Built With
 
+* [EJS](https://ejs.co/)
 * [NodeJS](https://nodejs.org/en/)
 * [ExpressJS](https://expressjs.com/)
 * [MongoDB](https://www.mongodb.com/)
