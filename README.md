@@ -22,7 +22,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://easybank2021.herokuapp.com/)
 
 ## Title
-# Easybank
+#### Easybank
 
 ## Challenge
 I had a hard time trying to stack multiple images on top of each other.
