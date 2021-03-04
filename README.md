@@ -2,7 +2,13 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#about-the-project">About The Project</a>
+      <ol>
+        <li><a href="#title">Title</a>
+        <li><a href="#challenge">Challenge</a>
+        <li><a href="#solution">Solution</a>
+      </ol>
+    </li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -15,7 +21,14 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://easybank2021.herokuapp.com/)
 
+## Title
+# Easybank
 
+## Challenge
+I had a hard time trying to stack multiple images on top of each other.
+
+## Solution
+I did a search on CSS background and read up about it, with the documentation i was able to stack an image on another.
 
 
 ### Built With
